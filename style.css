@@ -1,0 +1,224 @@
+@import url("./reset.css");
+body{
+    background-color: #1B1D1B;
+}
+.header{
+    background-color:#144221;
+    width: 100%;
+    height: 95px;
+    display:flex;
+    flex-direction: row;
+    color: #fff;
+    font-family: "BIZ UDGothic", sans-serif;
+    justify-content: space-between;
+    align-items: center;
+    position: fixed;
+    z-index: 1;
+}
+.header-left{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.header-right{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.senshu{
+    width: 144px;
+    height: 95px;
+}
+.NEWS{
+    margin-right: 15px;
+}
+.mainmain{
+    width: 100%;
+}
+.haruta{
+    color: #000;
+    width: 500px;
+    text-align: right;
+    position: absolute;top: 500px;
+    font-family: "Permanent Marker", cursive;
+}
+.HA{
+    font-size: 100px;
+}
+.sikakuue{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-top: 50px;
+}
+.square1{
+    width: 30%;
+    height: 850px;
+    background: black;
+}
+.square2{
+    width: 30%;
+    height: 850px;
+    background: black;
+}
+.square34{
+    width: 30%;
+    height: 850px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.square3{
+    width: 100%;
+    background: black;
+}
+.square4{
+    width: 100%;
+    background: black;
+}
+.sikakusita{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-top: 50px;
+}
+.square5{
+    width: 30%;
+    height: 400px;
+    background: black;
+}
+.square6{
+    width: 30%;
+    height: 400px;
+    background: black;
+}
+.square7{
+    width: 30%;
+    height: 400px;
+    background: black;
+}
+.young{
+    width: 90%;
+}
+.youngoya{
+    text-align: center;
+    margin-top: 15px;
+}
+.young2{
+    width: 90%;
+    margin-bottom: 15px;
+}
+.soccerjiman{
+    color: #fff;
+    font-size: 50px;
+    margin-bottom: 20px;
+    margin-left: 15px;
+    font-family: "Noto Sans JP", sans-serif;
+}
+.sansai{
+    color: #fff;
+    font-size: 30px;
+    margin:0 15px;
+    font-family: "Noto Sans JP", sans-serif;
+}
+.soccer{
+    position: absolute;top: 1025px;
+}
+.new{
+    color: red;
+    font-size: 50px;
+    margin: 15px;
+    font-family: "Permanent Marker", cursive;
+}
+.main-pro{
+    color: #fff;
+}
+.profile{
+    font-size: 70px;
+    font-family: "Kadwa", serif;
+    margin-left: 5%;
+    margin-top: 100px;
+    color: #fff;
+}
+.honnbunn{
+    font-size: 50px;
+    font-family: "Noto Sans JP", sans-serif;
+}
+.proue{
+    display: flex;
+    flex-direction: row;
+}
+.prohidariue{
+    margin-left: 7%;
+    margin-top: 50px;
+}
+.promigiue{
+    margin-top: 50px;
+    margin-left: 10%;
+}
+.prosita{
+    display: flex;
+    flex-direction: row;
+    margin-top: 75px;
+}
+.prohidarisita{
+    margin-left: 7%;
+}
+.promigisita{
+    margin-left: 10%
+}
+.spoue{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-top: 75px;
+}
+.wasedasai{
+    width: 200%;
+}
+.ydk{
+    width: 80%;
+}
+.sposita{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-top: 75px;
+}
+.haikyu{
+    width: 70%;
+    padding-left: 20%;
+}
+.footer{
+    background-color: #144221;
+    width: 100%;
+    height: 95px;
+    margin-top: 75px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    font-family: "BIZ UDGothic", sans-serif;
+}
+.fomigi{
+    color: #fff;
+    font-size: 20px;
+    text-align: right;
+    margin-right: 30px;
+    margin-top: 25px;
+}
+.fohidari{
+    color: #fff;
+    font-size: 20px;
+    margin-left: 30px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.sns{
+    margin-top: 35px;
+}
+.LINE{
+    margin-left: 20px;
+    width: 50px;
+    margin-top: 25px;
+}
